@@ -1,6 +1,6 @@
 [project]
 name = "utf-8-byte-boundary-tools"
-version = "0.1.1"
+version = "0.1.2"
 description = "Finds how many bytes are missing to finish a UTF-8 sequence at the end of a byte buffer"
 requires-python = ">=3.10"
 dependencies = []
